@@ -1,0 +1,20 @@
+<project name="HelloWorld">
+<target name="clean">
+<delete dir="build"/>
+</target>
+<target name="compile" depends="clean">
+<mkdir dir="build/classes"/>
+<javac srcdir="src" destdir="build/classes" includeantruntime="true"/>
+</target>
+<target name="jar" depends="compile">
+<mkdir dir="build/jar"/>
+<jar basedir="build/classes" destfile="build/jar/HelloWorld.jar">
+<manifest>
+<attribute name="Main-Class" value="A"/>
+</manifest>
+</jar>
+</target>
+<target name="run" depends="jar">
+<java jar="build/jar/HelloWorld.jar" fork="true"/>
+</target>
+</project>
