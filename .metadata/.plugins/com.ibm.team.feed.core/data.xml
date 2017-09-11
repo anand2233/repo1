@@ -1144,6 +1144,143 @@
         <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:build.IBuildResult.status" value="OK"/>
         <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:build.IBuildResult.buildDefinitionId" value="Prelude build"/>
       </internalContents>
+      <internalContents title="Started: Prelude build" link="https://clm-serverderby:9443/ccm/resource/itemOid/com.ibm.team.build.BuildResult/_h9fnEZa1Eees-d9VWdqqdw" description="&lt;p>Build: Prelude build&lt;br>Status: Successful&lt;br>State: In Progress&lt;br>Tags: &amp;lt;none&amp;gt;&lt;/p>" publishDate="2017-09-11T11:25:15.000+0530" category="com.ibm.team.build.category.BuildResultChanged" receiveDate="2017-09-11T11:27:18.761+0530" guid="urn:uuid:_yKxG_Za1Eees-d9VWdqqdw">
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:modified" value="2017-09-11T05:55:15Z"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:repositoryId" value="_9o8OsYf0Eeerl96HW5BSMA"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:build.IBuildResult.state" value="IN_PROGRESS"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:repositoryURL" value="https://clm-serverderby:9443/ccm/"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:build.IBuildResult.personalBuild" value="false"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:publicUri" value="https://clm-serverderby:9443/ccm/"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:build.IBuildResult.state.old" value="NOT_STARTED"/>
+        <customFields key="team.feed.authorEmail" value="Build@abc.com"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:typeName" value="BuildResult"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:itemId" value="_h9fnEZa1Eees-d9VWdqqdw"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:stateId" value="_yKnV8pa1Eees-d9VWdqqdw"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:build.IBuildResult.requestorId" value="Build"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:typeNamespace" value="com.ibm.team.build"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:build.IBuildResult.status" value="OK"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:build.IBuildResult.buildDefinitionId" value="Prelude build"/>
+      </internalContents>
+      <internalContents title="Started Activity: Prelude build 20170911-1125 (Jazz Source Control setup)" link="https://clm-serverderby:9443/ccm/resource/itemOid/com.ibm.team.build.BuildResult/_h9fnEZa1Eees-d9VWdqqdw" description="&lt;p>Build: Prelude build&lt;br>Status: Successful&lt;br>State: In Progress&lt;br>Tags: &amp;lt;none&amp;gt;&lt;br>Current Activity: Jazz Source Control setup&lt;/p>" publishDate="2017-09-11T11:25:15.000+0530" category="com.ibm.team.build.category.BuildResultChanged" receiveDate="2017-09-11T11:27:18.761+0530" guid="urn:uuid:_yMQUvZa1Eees-d9VWdqqdw">
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:repositoryId" value="_9o8OsYf0Eeerl96HW5BSMA"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:modified" value="2017-09-11T05:55:15Z"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:build.IBuildResult.state" value="IN_PROGRESS"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:repositoryURL" value="https://clm-serverderby:9443/ccm/"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:build.IBuildResult.personalBuild" value="false"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:publicUri" value="https://clm-serverderby:9443/ccm/"/>
+        <customFields key="team.feed.authorEmail" value="Build@abc.com"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:typeName" value="BuildResult"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:itemId" value="_h9fnEZa1Eees-d9VWdqqdw"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:build.IBuildResult.label" value="20170911-1125"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:stateId" value="_yLEB4pa1Eees-d9VWdqqdw"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:typeNamespace" value="com.ibm.team.build"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:build.IBuildResult.requestorId" value="Build"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:build.IBuildResult.status" value="OK"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:build.IBuildResult.buildDefinitionId" value="Prelude build"/>
+      </internalContents>
+      <internalContents title="Started Activity: Prelude build 20170911-1125 (Accepting changes)" link="https://clm-serverderby:9443/ccm/resource/itemOid/com.ibm.team.build.BuildResult/_h9fnEZa1Eees-d9VWdqqdw" description="&lt;p>Build: Prelude build&lt;br>Status: Successful&lt;br>State: In Progress&lt;br>Tags: &amp;lt;none&amp;gt;&lt;br>Current Activity: Accepting changes&lt;/p>" publishDate="2017-09-11T11:25:16.000+0530" category="com.ibm.team.build.category.BuildResultChanged" receiveDate="2017-09-11T11:27:18.761+0530" guid="urn:uuid:_yM2xs5a1Eees-d9VWdqqdw">
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:repositoryId" value="_9o8OsYf0Eeerl96HW5BSMA"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:modified" value="2017-09-11T05:55:16Z"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:build.IBuildResult.state" value="IN_PROGRESS"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:repositoryURL" value="https://clm-serverderby:9443/ccm/"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:build.IBuildResult.personalBuild" value="false"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:publicUri" value="https://clm-serverderby:9443/ccm/"/>
+        <customFields key="team.feed.authorEmail" value="Build@abc.com"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:typeName" value="BuildResult"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:itemId" value="_h9fnEZa1Eees-d9VWdqqdw"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:build.IBuildResult.label" value="20170911-1125"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:stateId" value="_yLEB4pa1Eees-d9VWdqqdw"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:typeNamespace" value="com.ibm.team.build"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:build.IBuildResult.requestorId" value="Build"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:build.IBuildResult.status" value="OK"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:build.IBuildResult.buildDefinitionId" value="Prelude build"/>
+      </internalContents>
+      <internalContents title="Started Activity: Prelude build 20170911-1125 (Fetching files)" link="https://clm-serverderby:9443/ccm/resource/itemOid/com.ibm.team.build.BuildResult/_h9fnEZa1Eees-d9VWdqqdw" description="&lt;p>Build: Prelude build&lt;br>Status: Successful&lt;br>State: In Progress&lt;br>Tags: &amp;lt;none&amp;gt;&lt;br>Current Activity: Fetching files&lt;/p>" publishDate="2017-09-11T11:25:16.000+0530" category="com.ibm.team.build.category.BuildResultChanged" receiveDate="2017-09-11T11:27:18.761+0530" guid="urn:uuid:_yQulE5a1Eees-d9VWdqqdw">
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:repositoryId" value="_9o8OsYf0Eeerl96HW5BSMA"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:modified" value="2017-09-11T05:55:16Z"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:build.IBuildResult.state" value="IN_PROGRESS"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:repositoryURL" value="https://clm-serverderby:9443/ccm/"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:build.IBuildResult.personalBuild" value="false"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:publicUri" value="https://clm-serverderby:9443/ccm/"/>
+        <customFields key="team.feed.authorEmail" value="Build@abc.com"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:typeName" value="BuildResult"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:itemId" value="_h9fnEZa1Eees-d9VWdqqdw"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:build.IBuildResult.label" value="20170911-1125"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:stateId" value="_yLEB4pa1Eees-d9VWdqqdw"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:typeNamespace" value="com.ibm.team.build"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:build.IBuildResult.requestorId" value="Build"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:build.IBuildResult.status" value="OK"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:build.IBuildResult.buildDefinitionId" value="Prelude build"/>
+      </internalContents>
+      <internalContents title="Activity Completed: Prelude build 20170911-1125 (Jazz Source Control setup)" link="https://clm-serverderby:9443/ccm/resource/itemOid/com.ibm.team.build.BuildResult/_h9fnEZa1Eees-d9VWdqqdw" description="&lt;p>Build: Prelude build&lt;br>Status: Successful&lt;br>State: In Progress&lt;br>Tags: &amp;lt;none&amp;gt;&lt;/p>" publishDate="2017-09-11T11:25:16.000+0530" category="com.ibm.team.build.category.BuildResultChanged" receiveDate="2017-09-11T11:27:18.761+0530" guid="urn:uuid:_yVDEYJa1Eees-d9VWdqqdw">
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:repositoryId" value="_9o8OsYf0Eeerl96HW5BSMA"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:modified" value="2017-09-11T05:55:16Z"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:build.IBuildResult.state" value="IN_PROGRESS"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:repositoryURL" value="https://clm-serverderby:9443/ccm/"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:build.IBuildResult.personalBuild" value="false"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:publicUri" value="https://clm-serverderby:9443/ccm/"/>
+        <customFields key="team.feed.authorEmail" value="Build@abc.com"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:typeName" value="BuildResult"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:itemId" value="_h9fnEZa1Eees-d9VWdqqdw"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:build.IBuildResult.label" value="20170911-1125"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:stateId" value="_yLEB4pa1Eees-d9VWdqqdw"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:typeNamespace" value="com.ibm.team.build"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:build.IBuildResult.requestorId" value="Build"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:build.IBuildResult.status" value="OK"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:build.IBuildResult.buildDefinitionId" value="Prelude build"/>
+      </internalContents>
+      <internalContents title="Started Activity: Prelude build 20170911-1125 (Delivering components)" link="https://clm-serverderby:9443/ccm/resource/itemOid/com.ibm.team.build.BuildResult/_h9fnEZa1Eees-d9VWdqqdw" description="&lt;p>Build: Prelude build&lt;br>Status: Successful&lt;br>State: In Progress&lt;br>Tags: &amp;lt;none&amp;gt;&lt;br>Current Activity: Delivering components&lt;/p>" publishDate="2017-09-11T11:25:19.000+0530" category="com.ibm.team.build.category.BuildResultChanged" receiveDate="2017-09-11T11:27:18.761+0530" guid="urn:uuid:_ypUEMpa1Eees-d9VWdqqdw">
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:repositoryId" value="_9o8OsYf0Eeerl96HW5BSMA"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:modified" value="2017-09-11T05:55:19Z"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:build.IBuildResult.state" value="IN_PROGRESS"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:repositoryURL" value="https://clm-serverderby:9443/ccm/"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:build.IBuildResult.personalBuild" value="false"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:publicUri" value="https://clm-serverderby:9443/ccm/"/>
+        <customFields key="team.feed.authorEmail" value="Build@abc.com"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:typeName" value="BuildResult"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:itemId" value="_h9fnEZa1Eees-d9VWdqqdw"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:build.IBuildResult.label" value="20170911-1125"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:stateId" value="_yLEB4pa1Eees-d9VWdqqdw"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:typeNamespace" value="com.ibm.team.build"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:build.IBuildResult.requestorId" value="Build"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:build.IBuildResult.status" value="OK"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:build.IBuildResult.buildDefinitionId" value="Prelude build"/>
+      </internalContents>
+      <internalContents title="Activity Completed: Prelude build 20170911-1125 (Delivering components)" link="https://clm-serverderby:9443/ccm/resource/itemOid/com.ibm.team.build.BuildResult/_h9fnEZa1Eees-d9VWdqqdw" description="&lt;p>Build: Prelude build&lt;br>Status: Successful&lt;br>State: In Progress&lt;br>Tags: &amp;lt;none&amp;gt;&lt;/p>" publishDate="2017-09-11T11:25:20.000+0530" category="com.ibm.team.build.category.BuildResultChanged" receiveDate="2017-09-11T11:27:18.761+0530" guid="urn:uuid:_y5Zunpa1Eees-d9VWdqqdw">
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:repositoryId" value="_9o8OsYf0Eeerl96HW5BSMA"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:modified" value="2017-09-11T05:55:20Z"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:build.IBuildResult.state" value="IN_PROGRESS"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:repositoryURL" value="https://clm-serverderby:9443/ccm/"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:build.IBuildResult.personalBuild" value="false"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:publicUri" value="https://clm-serverderby:9443/ccm/"/>
+        <customFields key="team.feed.authorEmail" value="Build@abc.com"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:typeName" value="BuildResult"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:itemId" value="_h9fnEZa1Eees-d9VWdqqdw"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:build.IBuildResult.label" value="20170911-1125"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:stateId" value="_yLEB4pa1Eees-d9VWdqqdw"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:typeNamespace" value="com.ibm.team.build"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:build.IBuildResult.requestorId" value="Build"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:build.IBuildResult.status" value="OK"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:build.IBuildResult.buildDefinitionId" value="Prelude build"/>
+      </internalContents>
+      <internalContents title="Succeeded: Prelude build 20170911-1125" link="https://clm-serverderby:9443/ccm/resource/itemOid/com.ibm.team.build.BuildResult/_h9fnEZa1Eees-d9VWdqqdw" description="&lt;p>Build: Prelude build&lt;br>Status: Successful&lt;br>State: Completed&lt;br>Tags: &amp;lt;none&amp;gt;&lt;/p>" publishDate="2017-09-11T11:25:52.000+0530" category="com.ibm.team.build.category.BuildResultChanged" receiveDate="2017-09-11T11:27:18.761+0530" guid="urn:uuid:_3j35rpa1Eees-d9VWdqqdw">
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:modified" value="2017-09-11T05:55:51Z"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:repositoryId" value="_9o8OsYf0Eeerl96HW5BSMA"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:build.IBuildResult.state" value="COMPLETED"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:repositoryURL" value="https://clm-serverderby:9443/ccm/"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:build.IBuildResult.personalBuild" value="false"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:publicUri" value="https://clm-serverderby:9443/ccm/"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:build.IBuildResult.state.old" value="IN_PROGRESS"/>
+        <customFields key="team.feed.authorEmail" value="Build@abc.com"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:typeName" value="BuildResult"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:itemId" value="_h9fnEZa1Eees-d9VWdqqdw"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:build.IBuildResult.label" value="20170911-1125"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:stateId" value="_3juvsJa1Eees-d9VWdqqdw"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:build.IBuildResult.requestorId" value="Build"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:typeNamespace" value="com.ibm.team.build"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:build.IBuildResult.status" value="OK"/>
+        <customFields key="http://www.ibm.com/jazz/0.1.0/syndication:build.IBuildResult.buildDefinitionId" value="Prelude build"/>
+      </internalContents>
     </internalContents>
     <internalContents title="My Work Item Changes on clm-serverderby" url="https://clm-serverderby:9443/ccm/service/com.ibm.team.repository.common.internal.IFeedService?itemType=WorkItem&amp;user={$user}" description="Notifies about changes of work items of which the logged-in user is the creator, owner, modifier, or a subscriber. &lt;p>Events generated by the logged-in user are filtered out by default. This can be changed in the feed sections' configuration in Team Dashboard." category="com.ibm.team.feed.core.SystemFeed" updateInterval="10" forceDownload="true" itemLimit="1000" effectiveUpdateInterval="600">
       <internalContents title="Change set linked to work item 104." link="https://clm-serverderby:9443/ccm/resource/itemName/com.ibm.team.workitem.WorkItem/104" description="The following change set was linked to work item 104:&lt;br/>&lt;a href=&quot;https://clm-serverderby:9443/ccm/resource/itemOid/com.ibm.team.scm.ChangeSet/_aGvM0JOtEees-d9VWdqqdw&quot;>Changes in: Prelude Default Component - &amp;lt;No Comment&amp;gt; - Build - Sep 7, 2017 2:47 PM&lt;/a>" publishDate="2017-09-07T14:47:46.000+0530" category="com.ibm.team.scm.eventCategory.workitem.link.create" receiveDate="2017-09-07T14:56:54.703+0530" guid="urn:uuid:_aYUsGJOtEees-d9VWdqqdw">
