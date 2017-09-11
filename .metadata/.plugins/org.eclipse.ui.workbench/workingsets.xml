@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1504767184551_1" label="Prelude Default Component" name="Prelude Default Component">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Hello Prelude" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1504766920422_0" label="Window Working Set" name="Aggregate for window 1504766920421"/>
+</workingSetManager>

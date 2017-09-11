@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.ibm.magnolia.clientmodel:ClientModelRoot xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:com.ibm.magnolia.clientmodel="http:///com/ibm/magnolia/clientmodel.ecore">
+  <workItemEditorHistory>
+    <internalContents date="2017-09-07T14:47:42.939+0530" description="104: Creating the artifact" repository="https://clm-serverderby:9443/ccm/">
+      <workItem itemId="_ILg9YJOtEeet6fWOzlS6Tw"/>
+    </internalContents>
+  </workItemEditorHistory>
+  <queries/>
+  <queryViews/>
+</com.ibm.magnolia.clientmodel:ClientModelRoot>
