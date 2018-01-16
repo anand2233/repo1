@@ -141,8 +141,7 @@
 					<warSourceDirectory>WebContent</warSourceDirectory>
 					<failOnMissingWebXml>false</failOnMissingWebXml>
 					<warName>Login</warName>
-					<outputDirectory>D:\apache-tomcat\apache-tomcat-8.0.46\webapps</outputDirectory>
-					
+										
 				</configuration>
 			</plugin>
 
